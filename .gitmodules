@@ -10,3 +10,6 @@
 [submodule "icons"]
 	path = icons
 	url = https://github.com/arcturus-weather/icons.git
+[submodule "weapp"]
+	path = weapp
+	url = https://github.com/arcturus-weather/weapp.git
