@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>小冰天气</h1>
+<h2>小冰天气</h2>
 
 使用 vue 和 nestjs 实现的全栈项目
 
@@ -20,9 +20,19 @@
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/arcturus-org/weather">
 </a>
 
-[demo](https://ice-weather.netlify.app/) | [backend](./server) | [frontend](./web) | [icons](https://iweather-icons.netlify.app) | [微信小程序](./weapp)
+[demo](https://ice-weather.netlify.app) |
+[backend](https://github.com/arcturus-weather/server) |
+[frontend](https://github.com/arcturus-weather/web) |
+[icons](https://iweather-icons.netlify.app) |
+[miniprogram](https://github.com/arcturus-weather/weapp)
 
 </div>
+
+### 下载项目
+
+```bash
+git clone --recursive https://github.com/arcturus-weather/.github.git
+```
 
 ### Docker 部署
 
