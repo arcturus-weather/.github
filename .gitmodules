@@ -1,3 +1,6 @@
 [submodule "web"]
 	path = web
 	url = https://github.com/arcturus-weather/web.git
+[submodule "flutter"]
+	path = flutter
+	url = https://github.com/arcturus-weather/flutter.git
