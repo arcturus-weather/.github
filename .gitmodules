@@ -4,3 +4,6 @@
 [submodule "flutter"]
 	path = flutter
 	url = https://github.com/arcturus-weather/flutter.git
+[submodule "server"]
+	path = server
+	url = https://github.com/arcturus-weather/server.git
